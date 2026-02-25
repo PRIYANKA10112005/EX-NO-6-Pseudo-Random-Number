@@ -35,7 +35,7 @@ return 0;
 
 
 # OUTPUT:
-<img width="756" height="296" alt="image" src="https://github.com/user-attachments/assets/c39d0788-f666-4453-a656-bffc9feba723" />
+<img width="756" height="296" alt="image" src="https://github.com/user-attachments/assets/6aab0e58-7a87-4214-9246-92a0ffb583ed" />
 
 # RESULT:
 Implementation of Pseudorandom Number Generation Using Standard library is successful.
