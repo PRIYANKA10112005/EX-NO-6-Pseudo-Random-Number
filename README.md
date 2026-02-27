@@ -1,19 +1,18 @@
 # EX-NO-6-Pseudo-Random-Number
-NAME:PRIYANKA P
-REG NO. : 212224230212
+
 # AIM: 
 Implementation of Pseudorandom Number Generation Using Standard library
 
 # ALGORITHM:
 Start the program and import the required libraries.
-   
+
 Seed the random number generator using the current time(i.e) rand(time(0));
 
 Get the number of randon number to generate.
 
 Pass the value for number of iterations and print the numbers.
 
-End the program.  
+End the program.
 
 # PROGRAM:
 ```
@@ -37,7 +36,7 @@ return 0;
 
 
 # OUTPUT:
-<img width="756" height="296" alt="image" src="https://github.com/user-attachments/assets/6aab0e58-7a87-4214-9246-92a0ffb583ed" />
+<img width="756" height="296" alt="image" src="https://github.com/user-attachments/assets/c39d0788-f666-4453-a656-bffc9feba723" />
 
 # RESULT:
 Implementation of Pseudorandom Number Generation Using Standard library is successful.
