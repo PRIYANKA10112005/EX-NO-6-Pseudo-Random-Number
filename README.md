@@ -1,4 +1,6 @@
 # EX-NO-6-Pseudo-Random-Number
+NAME:PRIYANKA P
+REG NO. : 212224230212
 # AIM: 
 Implementation of Pseudorandom Number Generation Using Standard library
 
